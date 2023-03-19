@@ -1,5 +1,7 @@
 # Moscow Exchange ISS Client
 
+[![Gem Version](https://badge.fury.io/rb/moex_iss_client.svg)](https://badge.fury.io/rb/moex_iss_client)
+
 This Ruby gem provides a convinient way to get non-real-time securities history from MOEX ISS without authentication.
 
 NOT USED for real-time updating of securities quotes and for algorithmic trading.
