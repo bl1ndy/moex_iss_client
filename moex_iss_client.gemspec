@@ -28,7 +28,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'faraday', '~> 2.7', '>= 2.7.4'
   spec.add_dependency 'rexml', '~> 3.2', '>= 3.2.5'
 
-  spec.metadata['rubygems_mfa_required'] = 'true'
+  spec.metadata['rubygems_mfa_required'] = 'false'
   spec.metadata['allowed_push_host'] = 'https://rubygems.org/'
   spec.metadata['homepage_uri'] = spec.homepage
   spec.metadata['source_code_uri'] = spec.homepage
