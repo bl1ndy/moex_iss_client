@@ -1,0 +1,36 @@
+<document>
+  <data id="history">
+    <metadata>
+      <columns>
+        <column name="BOARDID" type="string" bytes="12" max_size="0"/>
+        <column name="TRADEDATE" type="date" bytes="10" max_size="0"/>
+        <column name="SHORTNAME" type="string" bytes="189" max_size="0"/>
+        <column name="SECID" type="string" bytes="36" max_size="0"/>
+        <column name="NUMTRADES" type="double"/>
+        <column name="VALUE" type="double"/>
+        <column name="OPEN" type="double"/>
+        <column name="LOW" type="double"/>
+        <column name="HIGH" type="double"/>
+        <column name="LEGALCLOSEPRICE" type="double"/>
+        <column name="WAPRICE" type="double"/>
+        <column name="CLOSE" type="double"/>
+        <column name="VOLUME" type="double"/>
+        <column name="MARKETPRICE2" type="double"/>
+        <column name="MARKETPRICE3" type="double"/>
+        <column name="ADMITTEDQUOTE" type="double"/>
+        <column name="MP2VALTRD" type="double"/>
+        <column name="MARKETPRICE3TRADESVALUE" type="double"/>
+        <column name="ADMITTEDVALUE" type="double"/>
+        <column name="WAVAL" type="double"/>
+        <column name="TRADINGSESSION" type="int32"/>
+      </columns>
+    </metadata>
+    <rows>
+      <row BOARDID="TQBR" TRADEDATE="2023-03-13" SHORTNAME="МосБиржа" SECID="MOEX" NUMTRADES="86657" VALUE="3715836752.9" OPEN="117" LOW="112.35" HIGH="117.39" LEGALCLOSEPRICE="113.8" WAPRICE="114.54" CLOSE="113.9" VOLUME="32453310" MARKETPRICE2="114.53" MARKETPRICE3="114.53" ADMITTEDQUOTE="" MP2VALTRD="3400046945.3" MARKETPRICE3TRADESVALUE="3400046945.3" ADMITTEDVALUE="" WAVAL="0" TRADINGSESSION="3"/>
+      <row BOARDID="TQBR" TRADEDATE="2023-03-14" SHORTNAME="МосБиржа" SECID="MOEX" NUMTRADES="31556" VALUE="1231363697.8" OPEN="113.8" LOW="112.54" HIGH="114.7" LEGALCLOSEPRICE="113.9" WAPRICE="113.64" CLOSE="113.76" VOLUME="10834740" MARKETPRICE2="113.62" MARKETPRICE3="113.62" ADMITTEDQUOTE="" MP2VALTRD="1068666568.2" MARKETPRICE3TRADESVALUE="1068666568.2" ADMITTEDVALUE="" WAVAL="0" TRADINGSESSION="3"/>
+      <row BOARDID="TQBR" TRADEDATE="2023-03-15" SHORTNAME="МосБиржа" SECID="MOEX" NUMTRADES="41888" VALUE="1245731953.4" OPEN="114.31" LOW="111.01" HIGH="114.31" LEGALCLOSEPRICE="111.65" WAPRICE="112.12" CLOSE="111.38" VOLUME="11108690" MARKETPRICE2="112.35" MARKETPRICE3="112.35" ADMITTEDQUOTE="" MP2VALTRD="1012356447.3" MARKETPRICE3TRADESVALUE="1012356447.3" ADMITTEDVALUE="" WAVAL="0" TRADINGSESSION="3"/>
+      <row BOARDID="TQBR" TRADEDATE="2023-03-16" SHORTNAME="МосБиржа" SECID="MOEX" NUMTRADES="47870" VALUE="1536366689.7" OPEN="111.48" LOW="109.34" HIGH="112.11" LEGALCLOSEPRICE="110.7" WAPRICE="110.58" CLOSE="111.71" VOLUME="13890780" MARKETPRICE2="110.49" MARKETPRICE3="110.49" ADMITTEDQUOTE="" MP2VALTRD="1325892117.3" MARKETPRICE3TRADESVALUE="1325892117.3" ADMITTEDVALUE="" WAVAL="0" TRADINGSESSION="3"/>
+      <row BOARDID="TQBR" TRADEDATE="2023-03-17" SHORTNAME="МосБиржа" SECID="MOEX" NUMTRADES="51918" VALUE="1673633568.1" OPEN="112.89" LOW="112.01" HIGH="113.89" LEGALCLOSEPRICE="113.1" WAPRICE="112.92" CLOSE="112.89" VOLUME="14821140" MARKETPRICE2="112.92" MARKETPRICE3="112.92" ADMITTEDQUOTE="" MP2VALTRD="1567205531.2" MARKETPRICE3TRADESVALUE="1567205531.2" ADMITTEDVALUE="" WAVAL="0" TRADINGSESSION="3"/>
+    </rows>
+  </data>
+</document>
